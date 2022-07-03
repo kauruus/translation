@@ -1,0 +1,8 @@
+#+title: Chapter 4. How Go Uses The CPU Resource (or Two)
+#+author: Bartlomiej Plotka
+
+#+begin_quote
+(…) one of the most useful abstractions we can make is to treat properties of our hardware and infrastructure systems as resources. CPU, memory, data storage, and the network are similar to resources in the natural world: they are finite, they are physical objects in the real world, and they must be distributed and shared between various key players in the ecosystem.
+
+Susan J. Fowler, Production-Ready Microservices (2016)
+#+end_quote
